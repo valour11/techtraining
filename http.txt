@@ -1,0 +1,10 @@
+
+
+HTTP stands for Hypertext Transfer Protocol (HTTP) 
+It is a fundamental protocol used for communication between web servers and clients on the internet. 
+It facilitates the transfer of hypertext documents, such as web pages, by defining how messages are formatted and transmitted. 
+
+HTTP operates as a request-response protocol, where a client(a web browser) sends a request to a server for a resource, and the server responds with the requested information, 
+usually in the form of an HTML document. 
+
+HTTP is the foundation of the World Wide Web and is essential for browsing websites, accessing web services, and exchanging data over the internet.

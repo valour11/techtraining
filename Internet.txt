@@ -1,0 +1,7 @@
+
+The internet is a global network of interconnected computers and devices that allows for the exchange of information and communication across vast distances.
+It enables users to access a wide range of resources, including websites, applications, and digital content. 
+The internet operates on a decentralized system of interconnected networks, facilitated by protocols such as TCP/IP, HTTP, and DNS. 
+It serves as a platform for various online activities, including browsing the web, sending emails, streaming media, conducting research, and engaging in social networking. 
+The internet has revolutionized how people communicate, collaborate, and access information etc. 
+Almost anything can be done over the internet giving rise to diverse opportunities that wouldn't exist without it.
